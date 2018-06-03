@@ -4,5 +4,6 @@ node_js:
   10.3.0
 install:
   npm install mocha -g
+  npm install
 script:
   mocha test
